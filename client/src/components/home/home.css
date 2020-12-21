@@ -1,0 +1,37 @@
+.carousel-holder{
+    width: 100%;
+    height: 900px;
+}
+.animation-holder{
+background-color: black;
+}
+.floating-text{  
+    animation: mymove 35s infinite;
+    position: relative;
+    color: red;
+    font-size: 35px;
+ }
+@keyframes mymove {
+  from {left: -950px;}
+  to {left: 0px;}
+}
+
+.video-player{
+    position: relative;
+    left: 20px;    
+    bottom: 300px;
+    margin: 305px;
+}
+.text:hover{
+    background-color: red;
+    border-radius: 25px;
+}
+.red-text{
+    font-size: 50px;
+}
+.footer{
+    width: 100px;
+}
+.image{
+    width: 100px;
+}
