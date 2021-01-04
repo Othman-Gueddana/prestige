@@ -5,8 +5,11 @@ import YouTubePlayer from "react-player/youtube";
 
 
 class Home extends React.Component {
+
+
   render() {
     return (
+
       <div>
         <div className="animation-holder">
           <p className="floating-text">𝒏𝒐𝒖𝒗𝒆𝒂𝒖𝒕𝒆 𝒑𝒓𝒐𝒎𝒐𝒕𝒊𝒐𝒏 𝒋𝒖𝒔𝒒'𝒂𝒖 70%</p>

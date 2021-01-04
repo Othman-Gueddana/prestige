@@ -76,39 +76,40 @@ const EcommercePage = () => {
                             cascade
                             src={shoes1}
                             top
-                            alt='sample photo'
+                            alt='sample photo' cd
                             overlay='white-slight'
                             height="300px"
                             max-width="300px"
                         />
                         <MDBCardBody cascade className='text-center'>
                             <a href='#!' className='grey-text'>
-                                <h5>Shoes</h5>
+                                <h5>Denim</h5>
                             </a>
                             <MDBCardTitle>
                                 <strong>
-                                    <a href='#!'>High heels</a>
+                                    <a href='#!'>Denim</a>
                                 </strong>
-                            </MDBCardTitle>
-                            <div className="container">
-                                <div className="star-widget">
-                                    <input type="radio" name="rate" id="rate-51" />
-                                    <label for="rate-51" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-41" />
-                                    <label for="rate-41" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-31" />
-                                    <label for="rate-31" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-21" />
-                                    <label for="rate-22" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-11" />
-                                    <label for="rate-11" className="fas fa-star"></label>
-                                </div>
-                            </div>
-                            <MDBCardText>hello.</MDBCardText>
-                            <MDBCardFooter className='px-1'>
-                                <span className='float-left font-weight-bold'>
-                                    <strong>89$</strong>
+                                <br></br>
+                                <span className='float-left font-weight-bold price'>
+                                    <strong  >49$</strong>
                                 </span>
+                            </MDBCardTitle>
+                            <br></br>
+                            <MDBCardFooter className='rating'>
+                                <div className="container">
+                                    <div className="star-widget">
+                                        <input type="radio" name="rate" id="rate-50" />
+                                        <label for="rate-50" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-40" />
+                                        <label for="rate-40" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-30" />
+                                        <label for="rate-30" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-20" />
+                                        <label for="rate-20" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-10" />
+                                        <label for="rate-10" className="fas fa-star"></label>
+                                    </div>
+                                </div>
                             </MDBCardFooter>
                         </MDBCardBody>
                     </MDBCard>
@@ -126,32 +127,33 @@ const EcommercePage = () => {
                         />
                         <MDBCardBody cascade className='text-center'>
                             <a href='#!' className='grey-text'>
-                                <h5>Outwear</h5>
+                                <h5>Denim</h5>
                             </a>
                             <MDBCardTitle>
                                 <strong>
-                                    <a href='#!'>Brown coat</a>
+                                    <a href='#!'>Denim</a>
                                 </strong>
-                            </MDBCardTitle>
-                            <div className="container">
-                                <div className="star-widget">
-                                    <input type="radio" name="rate" id="rate-5" />
-                                    <label for="rate-5" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-4" />
-                                    <label for="rate-4" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-3" />
-                                    <label for="rate-3" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-2" />
-                                    <label for="rate-2" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-1" />
-                                    <label for="rate-1" className="fas fa-star"></label>
-                                </div>
-                            </div>
-                            <MDBCardText>hello.</MDBCardText>
-                            <MDBCardFooter className='px-1'>
-                                <span className='float-left font-weight-bold'>
-                                    <strong>59$</strong>
+                                <br></br>
+                                <span className='float-left font-weight-bold price'>
+                                    <strong  >49$</strong>
                                 </span>
+                            </MDBCardTitle>
+                            <br></br>
+                            <MDBCardFooter className='rating'>
+                                <div className="container">
+                                    <div className="star-widget">
+                                        <input type="radio" name="rate" id="rate-50" />
+                                        <label for="rate-50" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-40" />
+                                        <label for="rate-40" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-30" />
+                                        <label for="rate-30" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-20" />
+                                        <label for="rate-20" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-10" />
+                                        <label for="rate-10" className="fas fa-star"></label>
+                                    </div>
+                                </div>
                             </MDBCardFooter>
                         </MDBCardBody>
                     </MDBCard>
@@ -169,32 +171,33 @@ const EcommercePage = () => {
                         />
                         <MDBCardBody cascade className='text-center'>
                             <a href='#!' className='grey-text'>
-                                <h5>Outwear</h5>
+                                <h5>Denim</h5>
                             </a>
                             <MDBCardTitle>
                                 <strong>
-                                    <a href='#!'>Brown coat</a>
+                                    <a href='#!'>Denim</a>
                                 </strong>
-                            </MDBCardTitle>
-                            <div className="container">
-                                <div className="star-widget">
-                                    <input type="radio" name="rate" id="rate-5" />
-                                    <label for="rate-5" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-4" />
-                                    <label for="rate-4" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-3" />
-                                    <label for="rate-3" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-2" />
-                                    <label for="rate-2" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-1" />
-                                    <label for="rate-1" className="fas fa-star"></label>
-                                </div>
-                            </div>
-                            <MDBCardText>hello.</MDBCardText>
-                            <MDBCardFooter className='px-1'>
-                                <span className='float-left font-weight-bold'>
-                                    <strong>59$</strong>
+                                <br></br>
+                                <span className='float-left font-weight-bold price'>
+                                    <strong  >49$</strong>
                                 </span>
+                            </MDBCardTitle>
+                            <br></br>
+                            <MDBCardFooter className='rating'>
+                                <div className="container">
+                                    <div className="star-widget">
+                                        <input type="radio" name="rate" id="rate-50" />
+                                        <label for="rate-50" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-40" />
+                                        <label for="rate-40" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-30" />
+                                        <label for="rate-30" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-20" />
+                                        <label for="rate-20" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-10" />
+                                        <label for="rate-10" className="fas fa-star"></label>
+                                    </div>
+                                </div>
                             </MDBCardFooter>
                         </MDBCardBody>
                     </MDBCard>
@@ -212,32 +215,33 @@ const EcommercePage = () => {
                         />
                         <MDBCardBody cascade className='text-center'>
                             <a href='#!' className='grey-text'>
-                                <h5>Outwear</h5>
+                                <h5>Denim</h5>
                             </a>
                             <MDBCardTitle>
                                 <strong>
-                                    <a href='#!'>Brown coat</a>
+                                    <a href='#!'>Denim</a>
                                 </strong>
-                            </MDBCardTitle>
-                            <div className="container">
-                                <div className="star-widget">
-                                    <input type="radio" name="rate" id="rate-5" />
-                                    <label for="rate-5" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-4" />
-                                    <label for="rate-4" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-3" />
-                                    <label for="rate-3" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-2" />
-                                    <label for="rate-2" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-1" />
-                                    <label for="rate-1" className="fas fa-star"></label>
-                                </div>
-                            </div>
-                            <MDBCardText>hello.</MDBCardText>
-                            <MDBCardFooter className='px-1'>
-                                <span className='float-left font-weight-bold'>
-                                    <strong>59$</strong>
+                                <br></br>
+                                <span className='float-left font-weight-bold price'>
+                                    <strong  >49$</strong>
                                 </span>
+                            </MDBCardTitle>
+                            <br></br>
+                            <MDBCardFooter className='rating'>
+                                <div className="container">
+                                    <div className="star-widget">
+                                        <input type="radio" name="rate" id="rate-50" />
+                                        <label for="rate-50" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-40" />
+                                        <label for="rate-40" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-30" />
+                                        <label for="rate-30" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-20" />
+                                        <label for="rate-20" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-10" />
+                                        <label for="rate-10" className="fas fa-star"></label>
+                                    </div>
+                                </div>
                             </MDBCardFooter>
                         </MDBCardBody>
                     </MDBCard>
@@ -255,32 +259,33 @@ const EcommercePage = () => {
                         />
                         <MDBCardBody cascade className='text-center'>
                             <a href='#!' className='grey-text'>
-                                <h5>Outwear</h5>
+                                <h5>Denim</h5>
                             </a>
                             <MDBCardTitle>
                                 <strong>
-                                    <a href='#!'>Brown coat</a>
+                                    <a href='#!'>Denim</a>
                                 </strong>
-                            </MDBCardTitle>
-                            <div className="container">
-                                <div className="star-widget">
-                                    <input type="radio" name="rate" id="rate-5" />
-                                    <label for="rate-5" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-4" />
-                                    <label for="rate-4" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-3" />
-                                    <label for="rate-3" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-2" />
-                                    <label for="rate-2" className="fas fa-star"></label>
-                                    <input type="radio" name="rate" id="rate-1" />
-                                    <label for="rate-1" className="fas fa-star"></label>
-                                </div>
-                            </div>
-                            <MDBCardText>hello.</MDBCardText>
-                            <MDBCardFooter className='px-1'>
-                                <span className='float-left font-weight-bold'>
-                                    <strong>59$</strong>
+                                <br></br>
+                                <span className='float-left font-weight-bold price'>
+                                    <strong  >49$</strong>
                                 </span>
+                            </MDBCardTitle>
+                            <br></br>
+                            <MDBCardFooter className='rating'>
+                                <div className="container">
+                                    <div className="star-widget">
+                                        <input type="radio" name="rate" id="rate-50" />
+                                        <label for="rate-50" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-40" />
+                                        <label for="rate-40" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-30" />
+                                        <label for="rate-30" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-20" />
+                                        <label for="rate-20" className="fas fa-star"></label>
+                                        <input type="radio" name="rate" id="rate-10" />
+                                        <label for="rate-10" className="fas fa-star"></label>
+                                    </div>
+                                </div>
                             </MDBCardFooter>
                         </MDBCardBody>
                     </MDBCard>
